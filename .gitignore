@@ -6,4 +6,8 @@ other peoples code/
 /MK76/
 *.tmp
 *.docx
+*.pdf
+/.scala-build/
+/.metals/
+/.vscode/
 
